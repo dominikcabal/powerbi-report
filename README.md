@@ -46,3 +46,9 @@ Vazby: `Kriminalita[TSK_Kod]` → `Dim_Kategorie[TSK_Kod]` (N:1) a `Kriminalita[
 ## Poznámka k datům
 
 Počty skutků podle věku pachatelů nejsou plně porovnatelné mezi obdobími (změna metodiky počítání věku od roku 2016). Zvýšení hranice škody v roce 2020 ovlivnilo počty registrovaných skutků u majetkové a hospodářské kriminality. Rok 2025 může vykazovat nižší objasněnost, protože část skutků ještě nebyla v době pořízení dat objasněna.
+
+## Zdroje
+
+- Policie ČR — Statistické přehledy kriminality za rok 2025 (a roky 2021–2024): https://policie.gov.cz/clanek/statisticke-prehledy-kriminality-za-rok-2025.aspx
+- Použité soubory: prosincové sestavy `RRRR_12_Prosinec_sest_01a.xlsx` za roky 2021–2025, list „Česká republika".
+- Metodické poznámky k datům (definice registrovaných, objasněných a dodatečně objasněných skutků, změny TSK od 2021, změna metodiky věku od 2016) pocházejí z úvodních poznámek uvedených u statistik na webu Policie ČR.
